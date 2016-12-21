@@ -1,0 +1,19 @@
+.explore-card {
+	border: 2px solid;
+	border-color: #D4C8FF;
+	border-radius: 8px;
+	height: 240px;
+	width: 240px;
+	position: relative;
+	display: inline-block;
+	margin-right: 20px;
+}
+
+.explore-city {
+	position: absolute;
+	color: #6F49FF;
+  bottom: 0;
+  right: 0;
+	margin-right: 17px;
+	margin-bottom: 10px;
+}
